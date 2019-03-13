@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>io.imox.features</groupId>
   <artifactId>devicelocker</artifactId>
-  <version>0.0.80</version>
+  <version>0.0.81</version>
   <packaging>aar</packaging>
   <name>DeviceLocker</name>
   <description></description>
@@ -45,6 +45,42 @@
       <groupId>android.arch.work</groupId>
       <artifactId>work-runtime</artifactId>
       <version>1.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>android.arch.work</groupId>
+      <artifactId>work-firebase</artifactId>
+      <version>1.0.0-alpha11</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.springframework.android</groupId>
+      <artifactId>spring-android-rest-template</artifactId>
+      <version>2.0.0.M3</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.fasterxml.jackson.core</groupId>
+      <artifactId>jackson-databind</artifactId>
+      <version>2.9.8</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.httpcomponents</groupId>
+      <artifactId>httpclient-android</artifactId>
+      <version>4.3.5.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.codehaus.jackson</groupId>
+      <artifactId>jackson-mapper-asl</artifactId>
+      <version>1.9.11</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.google.firebase</groupId>
+      <artifactId>firebase-messaging</artifactId>
+      <version>17.4.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
