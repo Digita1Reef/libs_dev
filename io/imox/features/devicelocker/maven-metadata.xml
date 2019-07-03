@@ -3,7 +3,7 @@
   <groupId>io.imox.features</groupId>
   <artifactId>devicelocker</artifactId>
   <versioning>
-    <release>2.1.23</release>
+    <release>2.1.23_BETA</release>
     <versions>
       <version>0.0.81</version>
       <version>0.0.82</version>
@@ -40,7 +40,8 @@
       <version>0.1.14</version>
       <version>0.1.15</version>
       <version>2.1.23</version>
+      <version>2.1.23_BETA</version>
     </versions>
-    <lastUpdated>20190703215838</lastUpdated>
+    <lastUpdated>20190703220211</lastUpdated>
   </versioning>
 </metadata>
