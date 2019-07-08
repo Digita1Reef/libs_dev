@@ -3,13 +3,14 @@
   <groupId>io.imox.features</groupId>
   <artifactId>recolecdata</artifactId>
   <versioning>
-    <release>1.0.6_BETA</release>
+    <release>1.0.7_BETA</release>
     <versions>
       <version>1.0.5</version>
       <version>1.0.6</version>
       <version>1.0.7</version>
       <version>1.0.6_BETA</version>
+      <version>1.0.7_BETA</version>
     </versions>
-    <lastUpdated>20190708212310</lastUpdated>
+    <lastUpdated>20190708212811</lastUpdated>
   </versioning>
 </metadata>
