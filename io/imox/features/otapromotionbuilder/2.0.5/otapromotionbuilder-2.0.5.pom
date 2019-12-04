@@ -96,12 +96,6 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.google.firebase</groupId>
-      <artifactId>firebase-messaging</artifactId>
-      <version>20.0.1</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.google.android.gms</groupId>
       <artifactId>play-services-base</artifactId>
       <version>17.1.0</version>
