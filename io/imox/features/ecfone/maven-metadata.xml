@@ -3,7 +3,7 @@
   <groupId>io.imox.features</groupId>
   <artifactId>ecfone</artifactId>
   <versioning>
-    <release>2.2.27_BETA</release>
+    <release>2.2.28_BETA</release>
     <versions>
       <version>2.2.0</version>
       <version>2.2.1</version>
@@ -41,7 +41,8 @@
       <version>2.3.4</version>
       <version>2.2.26_BETA</version>
       <version>2.2.27_BETA</version>
+      <version>2.2.28_BETA</version>
     </versions>
-    <lastUpdated>20191211150419</lastUpdated>
+    <lastUpdated>20191211171802</lastUpdated>
   </versioning>
 </metadata>
