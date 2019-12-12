@@ -137,5 +137,17 @@
       <version>17.0.0</version>
       <scope>compile</scope>
     </dependency>
+    <dependency>
+      <groupId>androidx.tonyodev.fetch2</groupId>
+      <artifactId>xfetch2</artifactId>
+      <version>3.1.4</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>androidx.tonyodev.fetch2okhttp</groupId>
+      <artifactId>xfetch2okhttp</artifactId>
+      <version>3.1.4</version>
+      <scope>compile</scope>
+    </dependency>
   </dependencies>
 </project>
