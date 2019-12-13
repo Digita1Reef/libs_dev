@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.imox.features</groupId>
+  <artifactId>otapromotionbuilder</artifactId>
+  <versioning>
+    <release>2.0.5_BETA</release>
+    <versions>
+      <version>2.0.5_BETA</version>
+    </versions>
+    <lastUpdated>20191213193122</lastUpdated>
+  </versioning>
+</metadata>
