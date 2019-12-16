@@ -96,6 +96,17 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <artifactId>apptap-android-sdk-release-3.1.5</artifactId>
+      <type>aar</type>
+      <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>*</artifactId>
+          <groupId>*</groupId>
+        </exclusion>
+      </exclusions>
+    </dependency>
+    <dependency>
       <groupId>com.google.android.gms</groupId>
       <artifactId>play-services-base</artifactId>
       <version>17.1.0</version>
