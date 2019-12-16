@@ -3,7 +3,7 @@
   <groupId>io.imox.features</groupId>
   <artifactId>otapromotionbuilder</artifactId>
   <versioning>
-    <release>2.0.13_BETA</release>
+    <release>2.0.6</release>
     <versions>
       <version>2.0.5_BETA</version>
       <version>2.0.6_BETA</version>
@@ -17,6 +17,6 @@
       <version>2.0.6</version>
       <version>2.0.13_BETA</version>
     </versions>
-    <lastUpdated>20191216155855</lastUpdated>
+    <lastUpdated>20191216160837</lastUpdated>
   </versioning>
 </metadata>
