@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.imox.features</groupId>
+  <artifactId>recolecdata</artifactId>
+  <versioning>
+    <release>1.0.15_BETA</release>
+    <versions>
+      <version>1.0.15_BETA</version>
+    </versions>
+    <lastUpdated>20200114151226</lastUpdated>
+  </versioning>
+</metadata>
