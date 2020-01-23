@@ -3,7 +3,7 @@
   <groupId>io.imox.features</groupId>
   <artifactId>ecfone</artifactId>
   <versioning>
-    <release>2.2.51_DEMO_GUAT</release>
+    <release>2.2.52_DEMO_GUAT</release>
     <versions>
       <version>2.2.41_BETA</version>
       <version>2.2.30_EXPERIMENTAL</version>
@@ -16,7 +16,8 @@
       <version>2.2.49_DEMO_GUAT</version>
       <version>2.2.50_DEMO_GUAT</version>
       <version>2.2.51_DEMO_GUAT</version>
+      <version>2.2.52_DEMO_GUAT</version>
     </versions>
-    <lastUpdated>20200123183538</lastUpdated>
+    <lastUpdated>20200123191256</lastUpdated>
   </versioning>
 </metadata>
