@@ -3,7 +3,7 @@
   <groupId>io.imox.features</groupId>
   <artifactId>ecfone</artifactId>
   <versioning>
-    <release>3.0.2_TELEFONICA</release>
+    <release>3.0.3_TELEFONICA</release>
     <versions>
       <version>2.2.41_BETA</version>
       <version>2.2.30_EXPERIMENTAL</version>
@@ -20,7 +20,8 @@
       <version>3.0.0_TELEFONICA</version>
       <version>3.0.1_TELEFONICA</version>
       <version>3.0.2_TELEFONICA</version>
+      <version>3.0.3_TELEFONICA</version>
     </versions>
-    <lastUpdated>20200203223655</lastUpdated>
+    <lastUpdated>20200203225116</lastUpdated>
   </versioning>
 </metadata>
