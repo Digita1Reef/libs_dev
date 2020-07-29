@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.imox.features</groupId>
+  <artifactId>ecfone</artifactId>
+  <versioning>
+<<<<<<< HEAD
+    <release>2.2.59-sanbox-beta</release>
+    <versions>
+      <version>2.2.59-sanbox-beta</version>
+    </versions>
+    <lastUpdated>20200729172911</lastUpdated>
+=======
+    <release>2.2.58-sanbox-beta</release>
+    <versions>
+      <version>2.2.41_BETA</version>
+      <version>2.2.30_EXPERIMENTAL</version>
+      <version>2.2.31_EXPERIMENTAL</version>
+      <version>2.2.42_BETA</version>
+      <version>2.2.32</version>
+      <version>2.2.46_DEMO_GUAT</version>
+      <version>2.2.47_DEMO_GUAT</version>
+      <version>2.2.48_DEMO_GUAT</version>
+      <version>2.2.49_DEMO_GUAT</version>
+      <version>2.2.50_DEMO_GUAT</version>
+      <version>2.2.51_DEMO_GUAT</version>
+      <version>2.2.52_DEMO_GUAT</version>
+      <version>3.0.0_TELEFONICA</version>
+      <version>3.0.1_TELEFONICA</version>
+      <version>3.0.2_TELEFONICA</version>
+      <version>3.0.3_TELEFONICA</version>
+      <version>3.0.4_TELEFONICA</version>
+      <version>3.0.5_TELEFONICA</version>
+      <version>3.0.6_TELEFONICA</version>
+      <version>3.0.7_TELEFONICA</version>
+      <version>3.0.8_TELEFONICA</version>
+      <version>3.0.9_TELEFONICA</version>
+      <version>3.0.10_TELEFONICA</version>
+      <version>3.0.11_HUAWEI</version>
+      <version>2.2.49_BETA</version>
+      <version>2.2.50_BETA</version>
+      <version>2.2.51_BETA</version>
+      <version>2.2.51_BETA_D</version>
+      <version>2.2.52_BETA_D</version>
+      <version>2.2.58-sanbox-beta</version>
+    </versions>
+    <lastUpdated>20200722152749</lastUpdated>
+>>>>>>> 12b07f9bd56d7fd46365488e5d67642260fb4ea6
+  </versioning>
+</metadata>
