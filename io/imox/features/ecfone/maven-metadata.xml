@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.imox.features</groupId>
+  <artifactId>ecfone</artifactId>
+  <versioning>
+    <release>2.2.59-sanbox-beta</release>
+    <versions>
+      <version>2.2.59-sanbox-beta</version>
+    </versions>
+    <lastUpdated>20200729172911</lastUpdated>
+  </versioning>
+</metadata>
