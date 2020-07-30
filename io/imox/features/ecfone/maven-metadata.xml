@@ -3,7 +3,7 @@
   <groupId>io.imox.features</groupId>
   <artifactId>ecfone</artifactId>
   <versioning>
-    <release>2.2.62-sanbox-beta</release>
+    <release>2.2.63-sanbox-beta</release>
     <versions>
       <version>2.2.41_BETA</version>
       <version>2.2.30_EXPERIMENTAL</version>
@@ -39,7 +39,8 @@
       <version>2.2.60-sanbox-beta</version>
       <version>2.2.61-sanbox-beta</version>
       <version>2.2.62-sanbox-beta</version>
+      <version>2.2.63-sanbox-beta</version>
     </versions>
-    <lastUpdated>20200730173125</lastUpdated>
+    <lastUpdated>20200730182910</lastUpdated>
   </versioning>
 </metadata>
