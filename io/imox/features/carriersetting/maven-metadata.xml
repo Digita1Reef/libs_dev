@@ -3,13 +3,14 @@
   <groupId>io.imox.features</groupId>
   <artifactId>carriersetting</artifactId>
   <versioning>
-    <release>0.0.4_BETA</release>
+    <release>1.0.2_BETA</release>
     <versions>
       <version>0.0.1_BETA</version>
       <version>0.0.2_BETA</version>
       <version>0.0.3_BETA</version>
       <version>0.0.4_BETA</version>
+      <version>1.0.2_BETA</version>
     </versions>
-    <lastUpdated>20200218230338</lastUpdated>
+    <lastUpdated>20201218160332</lastUpdated>
   </versioning>
 </metadata>
