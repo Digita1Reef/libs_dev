@@ -32,7 +32,7 @@
     <dependency>
       <groupId>io.imox.features</groupId>
       <artifactId>recolecdata</artifactId>
-      <version>1.0.21</version>
+      <version>1.0.22_BETA</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
