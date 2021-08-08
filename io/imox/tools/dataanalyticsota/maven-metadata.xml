@@ -3,7 +3,7 @@
   <groupId>io.imox.tools</groupId>
   <artifactId>dataanalyticsota</artifactId>
   <versioning>
-    <release>1.0.48_BETA</release>
+    <release>1.0.49_BETA</release>
     <versions>
       <version>1.0.8_BETA</version>
       <version>1.0.10_BETA</version>
@@ -44,7 +44,8 @@
       <version>1.0.46_BETA</version>
       <version>1.0.47_BETA</version>
       <version>1.0.48_BETA</version>
+      <version>1.0.49_BETA</version>
     </versions>
-    <lastUpdated>20210808210359</lastUpdated>
+    <lastUpdated>20210808211748</lastUpdated>
   </versioning>
 </metadata>
